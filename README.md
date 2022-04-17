@@ -3,6 +3,6 @@ Carousels have drawn a lot of criticism (see [here](https://cxl.com/blog/dont-us
 
 However, it may not always be strip the section down to a single slide or hero image when the content on the other slides is still important.
 
-I designed this React slider component as a less-frustrating alternative to a carousel. A key feature is that it does *not* advance automatically, enhancing readability in the eye of the user. On the other hand, it still preserves the ability to present multiple slides of information that the user can click through—and do so at their own leisure.
+I designed this React slider component as a less-frustrating alternative to a carousel. A key feature is that it does *not* advance automatically, enhancing readability. On the other hand, it still preserves the ability to present multiple slides of information that the user can click through—and do so at their own leisure.
 
 You can find all the source code in the `main` branch, with a working demo deployed [here](https://www.meka.la/carousel-alt).
