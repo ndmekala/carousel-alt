@@ -1,0 +1,35 @@
+.blurbWrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    transition: all 300ms ease-in-out;
+}
+
+.blurbContainer {
+    text-align: center;
+    background-color: rgba(251, 251, 251, 1);
+    padding: 1rem 0rem;
+    width: 100vw;
+}
+
+.blurbText {
+    color: #043454;
+    font-size: 1.5rem;
+    padding: 1.25rem 1rem 0 1rem;
+    font-weight: 300;
+}
+
+.blurbAuthorTItle {
+    color: #e14040;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    padding-top: 1.25rem;
+    font-weight: 500;
+    letter-spacing: .125rem;
+}
+
+.blurbAuthor {
+    color: #043454;
+    font-size: 1.75rem;
+    padding-top: 1.25rem;
+    font-weight: 700;
+}

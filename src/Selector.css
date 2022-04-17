@@ -1,0 +1,20 @@
+.selectorWrapper {
+    background-color: rgba(251, 251, 251, 1);
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.selected {
+    background-color: #e14040;
+}
+
+.unselected {
+    background-color: #e5e5e5;
+}
+
+.sliderSelector {
+    margin: 0.25rem;
+    padding: .375rem;
+    border-radius: .75rem;
+}
