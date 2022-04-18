@@ -14,7 +14,7 @@
 }
 
 .selector {
-    margin: 0.25rem;
-    padding: .375rem;
-    border-radius: .75rem;
+    margin: 0.375rem;
+    padding: .625rem;
+    border-radius: 2rem;
 }
